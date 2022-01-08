@@ -1,0 +1,80 @@
+.sampul {
+  width: 100px;
+}
+.sticky {
+  position: sticky;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.home {
+  width: 2000px;
+  height: 1000px;
+}
+.logo {
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -110px;
+}
+.opc {
+  opacity: 30%;
+}
+.crosel {
+  width: 2000px;
+  height: 1000px;
+}
+.gigsm {
+  width: 400px;
+  height: 200px;
+}
+
+.rwlpad {
+  padding-left: 20px;
+  padding-right: 200px;
+}
+
+.ml {
+  margin-left: 220px;
+}
+.container {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.p1 {
+  font-family: fantasy;
+}
+
+.txtjustify {
+  text-align: justify;
+}
+.centered {
+  position: absolute;
+  margin-top: -100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+
+.centered2 {
+  position: absolute;
+  margin-top: -10px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+/* .site-header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+} */
